@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "superheroes": "^4.0.0",
+    "superheros": "^1.0.0"
+  },
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "just started node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adarsh Raj",
+  "license": "ISC"
+}
